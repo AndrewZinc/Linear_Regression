@@ -1,0 +1,8 @@
+Precision = TP/(TP + FP)
+
+Sensitivity = TP/(TP + FN)
+
+The formula for the F1 score is the following:
+
+2(Precision * Sensitivity)/(Precision + Sensitivity)
+The terms F1 score and harmonic mean are interchangeable.
